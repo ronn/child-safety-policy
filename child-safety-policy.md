@@ -2,7 +2,7 @@ Siqpik – Child Safety & CSAE Policy
 
 App Name: Siqpik
 Developer Name: Ronn Cañas
-Contact Email: [your_email@gmail.com] (replace this with your actual contact email)
+Contact Email: [siqpik.dev@gmail.com] (replace this with your actual contact email)
 
 📌 Our Commitment to Child Safety
 At Siqpik, we are committed to maintaining a safe and respectful environment for all users. We recognize the importance of protecting minors from harm and are firmly opposed to any form of Child Sexual Abuse and Exploitation (CSAE).
@@ -29,7 +29,7 @@ Potential CSAE violations
 Any user conduct that may harm a minor
 All reports are prioritized and reviewed quickly by our internal team.
 
-You can also reach out directly via email at: [your_email@gmail.com]
+You can also reach out directly via email at: [siqpik.dev@gmail.com]
 
 🧾 Legal Compliance
 We comply with applicable child protection laws and regulations in the regions we operate, and:
@@ -40,7 +40,7 @@ NCMEC (National Center for Missing & Exploited Children) in the U.S.
 Local law enforcement in other jurisdictions
 📞 CSAE Point of Contact
 Name: Ronn Cañas
-Email: [your_email@gmail.com]
+Email: [siqpik.dev@gmail.com]
 Role: Founder & App Administrator
 
 This person is authorized to receive and act on CSAE reports.
